@@ -1,2 +1,2 @@
 # DoE-RENEW
-DoE-RENEW project repository for computer skills workshops
+DoE-RENEW project repository for computer skill workshops
